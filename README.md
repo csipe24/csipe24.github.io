@@ -1,2 +1,2 @@
-# csipe24.github.io
-My Public Page
+# github.io
+My Github Profile Home Page
